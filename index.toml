@@ -533,5 +533,5 @@ file = "options.txt"
 hash = "2ed66061b34204503e9bed6d299b8d1b984eb6d7a70a246c9f78ae698917dea0"
 
 [[files]]
-file = "servers.dat"
-hash = "6ffaefe79478f991f652fd6d42262f6dc61fcecdde2e99a24f5e266ead07054f"
+file = "unsup.toml"
+hash = "4c75b2af896a48c902ec239855709b1e22d973a59dfe205c0b709e806c858ade"
