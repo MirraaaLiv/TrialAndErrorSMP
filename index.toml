@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "3b8760225b39c6e4fde6ffe72cdf8da3f3329b0b8e9c72a3c8f18f4d48a002cd"
+hash = "cec9795cbd64887dc80f20ddeeac5cb2dd17d750e8b71051940caf26067f013f"
 metafile = true
 
 [[files]]
@@ -432,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/extreme_sound_muffler.pw.toml"
-hash = "8fbb3443657904433d2fbb265a23042092605b1cfc47b51904dfd67f0fa07595"
+hash = "c3d560c303c0f91eb59ce1e1092136935584c47dec282235f3f586b4c7305f26"
 metafile = true
 
 [[files]]
@@ -782,7 +782,7 @@ metafile = true
 
 [[files]]
 file = "mods/subtle-effects.pw.toml"
-hash = "13cd0c102dc441a5633080deb8ff8ab4730319f22a5d9fc424a68aaa17013f4a"
+hash = "1265372af9b10f84eab3bf56e9a20a5333e77815dd9f8e9463b8a2526ad7028d"
 metafile = true
 
 [[files]]
@@ -832,7 +832,7 @@ metafile = true
 
 [[files]]
 file = "mods/wakes-reforged.pw.toml"
-hash = "67f2dd41511cde96d6d11603d3cf4c500b909209d6c5f9785daaf0060cb6c114"
+hash = "73e3783e1f663d03b077bbeddb0942bcc7806a9b7cb5254a424b2e1a71c30b9f"
 metafile = true
 
 [[files]]
