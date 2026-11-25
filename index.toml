@@ -668,7 +668,3 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "2d00024539b7752739e087c49738cc5a9e4bb2ae843f02a1f3ea87f77aee6332"
-
-[[files]]
-file = "unsup.toml"
-hash = "0ea040e5c86d4a51868ac6b4337dfcfd5e5d8a617c223c16bda5569f2573a26d"
