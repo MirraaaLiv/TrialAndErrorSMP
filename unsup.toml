@@ -13,7 +13,7 @@ name = "Client"
 id = "server"
 name = "Server"
 
-[meta."options.txt]
+[meta."options.txt"]
 flavors = { env = "client" }
 
 # Client-only mods (skipped when env = "server")

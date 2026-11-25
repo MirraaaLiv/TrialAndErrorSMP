@@ -530,8 +530,8 @@ hash = "6a42b6f01bd96b496e5fcc07d4541bad1a699d9ec8ad58ad40d5dcfe23a7d4c7"
 
 [[files]]
 file = "options.txt"
-hash = "2ed66061b34204503e9bed6d299b8d1b984eb6d7a70a246c9f78ae698917dea0"
+hash = "2d00024539b7752739e087c49738cc5a9e4bb2ae843f02a1f3ea87f77aee6332"
 
 [[files]]
 file = "unsup.toml"
-hash = "4c75b2af896a48c902ec239855709b1e22d973a59dfe205c0b709e806c858ade"
+hash = "878958ceac2e818ac14fc7cc7bd33bd1318acb6ff59db23e934870c92d0afefa"
