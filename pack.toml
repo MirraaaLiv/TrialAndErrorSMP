@@ -1,12 +1,12 @@
 name = "Trial and Error SMP"
 author = "Mirraaa"
-version = "1.0.3"
+version = "1.0.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9f76b47357f021b3b60db2aa9dc4324c809bbba86b668d7ac32ab5149f3ab183"
+hash = "f289868092b9c2cdfc23d38d9394d121ad439211918af955fd2d10de6e9ce9fd"
 
 [versions]
 minecraft = "1.21.1"
