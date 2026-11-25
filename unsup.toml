@@ -1,0 +1,81 @@
+version = 1
+
+[flavor_groups.env]
+name = "Environment"
+description = "Client or Server installation"
+default = "client"
+
+[[flavor_groups.env.choices]]
+id = "client"
+name = "Client"
+
+[[flavor_groups.env.choices]]
+id = "server"
+name = "Server"
+
+# Client-only mods (skipped when env = "server")
+[meta."mods/*sodium-extra*.jar"]
+flavors = { env = "client" }
+
+[meta."mods/*iris*.jar"]
+flavors = { env = "client" }
+
+[meta."mods/*createbetterfps*.jar"]
+flavors = { env = "client" }
+
+[meta."mods/*Searchables*.jar"]
+flavors = { env = "client" }
+
+[meta."mods/*emiffect*.jar"]
+flavors = { env = "client" }
+
+[meta."mods/*EMIProfessions*.jar"]
+flavors = { env = "client" }
+
+[meta."mods/*extra-mod-integrations*.jar"]
+flavors = { env = "client" }
+
+[meta."mods/*fusion*.jar"]
+flavors = { env = "client" }
+
+[meta."mods/*sodium-neoforge*.jar"]
+flavors = { env = "client" }
+
+[meta."mods/*emi_create_schematics*.jar"]
+flavors = { env = "client" }
+
+[meta."mods/*MouseTweaks*.jar"]
+flavors = { env = "client" }
+
+[meta."mods/*entityculling*.jar"]
+flavors = { env = "client" }
+
+[meta."mods/*figura*.jar"]
+flavors = { env = "client" }
+
+[meta."mods/*gbf*.jar"]
+flavors = { env = "client" }
+
+[meta."mods/*Controlling*.jar"]
+flavors = { env = "client" }
+
+[meta."mods/*lambdynamiclights*.jar"]
+flavors = { env = "client" }
+
+[meta."mods/*entity_model_features*.jar"]
+flavors = { env = "client" }
+
+[meta."mods/*entity_texture_features*.jar"]
+flavors = { env = "client" }
+
+[meta."mods/*emi_enchanting*.jar"]
+flavors = { env = "client" }
+
+[meta."mods/*BetterF3*.jar"]
+flavors = { env = "client" }
+
+[meta."mods/*rrls*.jar"]
+flavors = { env = "client" }
+
+[meta."mods/*BadOptimizations*.jar"]
+flavors = { env = "client" }
