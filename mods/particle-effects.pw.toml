@@ -1,0 +1,18 @@
+﻿name = "Particle Effects"
+filename = "ParticleEffects-1.7.0+1.21.1+neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PLAGcSFJ/versions/Gl1GVtcP/ParticleEffects-1.7.0%2B1.21.1%2Bneoforge.jar"
+hash-format = "sha512"
+hash = "096b69e3a1229e40ae4d9df4ab323fd3c6d0ba9612aa41b76ebcf97f119262e509ea3c2d51692c5e8e4627d8b6df10d9f24b37cb754c2d12f024b96300fe729e"
+
+[update]
+[update.modrinth]
+mod-id = "PLAGcSFJ"
+version = "Gl1GVtcP"
+
+[option]
+optional = true
+default = false
+description = "Adds unique particles for each potion effect"
