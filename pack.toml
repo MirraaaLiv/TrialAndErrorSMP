@@ -1,13 +1,13 @@
-name = "Newbie SMP"
+name = "Trial and Error SMP"
 author = "Mirraaa"
-version = "1.0.3"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2568721cf41044fa21c1b2c3e0cf8c667fc42fd705552eb8eb6acced1d9a5e66"
+hash = "510508c3b8a234fbbd775ad5272141bd582ade26803bcbe67554e02d9160a0d8"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.252"
+neoforge = "21.1.267"
