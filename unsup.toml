@@ -13,6 +13,9 @@ name = "Client"
 id = "server"
 name = "Server"
 
+[meta."options.txt]
+flavors = { env = "client" }
+
 # Client-only mods (skipped when env = "server")
 [meta."mods/*sodium-extra*.jar"]
 flavors = { env = "client" }
