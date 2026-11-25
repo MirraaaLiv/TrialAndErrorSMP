@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/.pw.toml"
-hash = "6f11ea26a5a847a28786cc555f9e6ffa12be82a2b6223ecd0e4df80e96de2ac5"
-metafile = true
-
-[[files]]
 file = "mods/ae2.pw.toml"
 hash = "97bf1341e93d37de845a63ce547cbda3191e55e7281df871d9aae44bc36aa358"
 metafile = true
