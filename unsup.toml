@@ -13,72 +13,72 @@ name = "Client"
 id = "server"
 name = "Server"
 
-[meta."options.txt"]
+[file."options.txt"]
 flavors = { env = "client" }
 
 # Client-only mods (skipped when env = "server")
-[meta."mods/*sodium-extra*.jar"]
+[file."mods/*sodium-extra*.jar"]
 flavors = { env = "client" }
 
-[meta."mods/*iris*.jar"]
+[file."mods/*iris*.jar"]
 flavors = { env = "client" }
 
-[meta."mods/*createbetterfps*.jar"]
+[file."mods/*createbetterfps*.jar"]
 flavors = { env = "client" }
 
-[meta."mods/*Searchables*.jar"]
+[file."mods/*Searchables*.jar"]
 flavors = { env = "client" }
 
-[meta."mods/*emiffect*.jar"]
+[file."mods/*emiffect*.jar"]
 flavors = { env = "client" }
 
-[meta."mods/*EMIProfessions*.jar"]
+[file."mods/*EMIProfessions*.jar"]
 flavors = { env = "client" }
 
-[meta."mods/*extra-mod-integrations*.jar"]
+[file."mods/*extra-mod-integrations*.jar"]
 flavors = { env = "client" }
 
-[meta."mods/*fusion*.jar"]
+[file."mods/*fusion*.jar"]
 flavors = { env = "client" }
 
-[meta."mods/*sodium-neoforge*.jar"]
+[file."mods/*sodium-neoforge*.jar"]
 flavors = { env = "client" }
 
-[meta."mods/*emi_create_schematics*.jar"]
+[file."mods/*emi_create_schematics*.jar"]
 flavors = { env = "client" }
 
-[meta."mods/*MouseTweaks*.jar"]
+[file."mods/*MouseTweaks*.jar"]
 flavors = { env = "client" }
 
-[meta."mods/*entityculling*.jar"]
+[file."mods/*entityculling*.jar"]
 flavors = { env = "client" }
 
-[meta."mods/*figura*.jar"]
+[file."mods/*figura*.jar"]
 flavors = { env = "client" }
 
-[meta."mods/*gbf*.jar"]
+[file."mods/*gbf*.jar"]
 flavors = { env = "client" }
 
-[meta."mods/*Controlling*.jar"]
+[file."mods/*Controlling*.jar"]
 flavors = { env = "client" }
 
-[meta."mods/*lambdynamiclights*.jar"]
+[file."mods/*lambdynamiclights*.jar"]
 flavors = { env = "client" }
 
-[meta."mods/*entity_model_features*.jar"]
+[file."mods/*entity_model_features*.jar"]
 flavors = { env = "client" }
 
-[meta."mods/*entity_texture_features*.jar"]
+[file."mods/*entity_texture_features*.jar"]
 flavors = { env = "client" }
 
-[meta."mods/*emi_enchanting*.jar"]
+[file."mods/*emi_enchanting*.jar"]
 flavors = { env = "client" }
 
-[meta."mods/*BetterF3*.jar"]
+[file."mods/*BetterF3*.jar"]
 flavors = { env = "client" }
 
-[meta."mods/*rrls*.jar"]
+[file."mods/*rrls*.jar"]
 flavors = { env = "client" }
 
-[meta."mods/*BadOptimizations*.jar"]
+[file."mods/*BadOptimizations*.jar"]
 flavors = { env = "client" }
