@@ -11,3 +11,8 @@ hash = "dccd4b92360caef342fa3226ab7e8d6e2dbf44745cf4ff9e3e861356bf7a6796e26a1951
 [update.modrinth]
 mod-id = "nUwwB5kx"
 version = "3KLMffqk"
+
+[option]
+optional = true
+default = false
+description = "Makes the cool rain mod work with moving contraptions!"

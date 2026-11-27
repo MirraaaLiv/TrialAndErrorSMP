@@ -11,6 +11,11 @@ hash = "42871bdf93a10da25f0c036ff87b924259b4025f4f4b8e0350fac9541a2c107e"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "f07d8242b916990eb13228792d6aa7c2559b9661c754eb2a518a79864ccac503"
+metafile = true
+
+[[files]]
 file = "mods/apotheosis.pw.toml"
 hash = "e154d7fb16dc7eb6ace7b88b3896955bb66f58c2daafe93c7ae3327ee418a509"
 metafile = true
@@ -91,6 +96,11 @@ hash = "e1f4a53e3e52b534add5dd018597fefd345d9bd6350b9c46ef0ec281fc62af8e"
 metafile = true
 
 [[files]]
+file = "mods/beltborne-lanterns.pw.toml"
+hash = "075359f5bddddabc3a5feb2c8d0405cd3ee50db5f869b228018ec435c8ea0070"
+metafile = true
+
+[[files]]
 file = "mods/better-block-entities.pw.toml"
 hash = "eb0c1e82baced061d551f83b4be1c9996029d8b6571eca5390bc0eca96b9f7a6"
 metafile = true
@@ -147,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/cool-rain-reforged.pw.toml"
-hash = "7c5d1fb47ffd309dc332ad2011e2e392b54d74dc49607872af01222a1df24186"
+hash = "01976006c25eafdda8a87b8f9e0bed1e3a40abcf7d47965b504ccb45d17c2b23"
 metafile = true
 
 [[files]]
@@ -712,7 +722,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable-cool-rain.pw.toml"
-hash = "d83497f150d4938933f135fe1b79fd34bae71b2c4e9698c41b8177537d1cef3f"
+hash = "beddc8b6bba5d2074d1f9ed9b5c9ee23fb529b0cf11ad02356fb5641c59cc598"
 metafile = true
 
 [[files]]
@@ -868,7 +878,3 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "2d00024539b7752739e087c49738cc5a9e4bb2ae843f02a1f3ea87f77aee6332"
-
-[[files]]
-file = "unsup.toml"
-hash = "915e96bafaf8102ba1909ee0da98bebda0efa8917d6df2042a728ce0577fef1e"
