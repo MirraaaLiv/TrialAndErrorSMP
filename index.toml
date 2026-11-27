@@ -171,6 +171,11 @@ hash = "b63999aa63a273098f42e22d8d5018c8617b8e2babdffc752d9aad3eefaaa76d"
 metafile = true
 
 [[files]]
+file = "mods/craterlib.pw.toml"
+hash = "810e0b130095f09c0a2a488316e5f7d89a4038a25c704c78b6d6f1fe42090c8a"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "19005d189b90d95b5b981784480f1a39bf24022535f71b9afd7175e17216a038"
 metafile = true
@@ -723,6 +728,11 @@ metafile = true
 [[files]]
 file = "mods/scribble.pw.toml"
 hash = "03c4b7fd8c3c4b4a7304bcc068efe117c375d13b3ea7eb7a2963eda20c936039"
+metafile = true
+
+[[files]]
+file = "mods/sdlink.pw.toml"
+hash = "2037c01b68f261d9ca033b1166cf32d63ddb5dc66b69e03d5d5fb24f22a9707e"
 metafile = true
 
 [[files]]
